@@ -4,14 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1419b5b-bff8-4ff8-b86e-f3029ab229a6" name="Changes" comment="" />
+    <list default="true" id="a1419b5b-bff8-4ff8-b86e-f3029ab229a6" name="Changes" comment="Init project, install vite, setup tailwind">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/bank_app/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="ProjectId" id="2SPGellW2u5OjxU6ohm61omjIUZ" />
   <component name="ProjectViewState">
@@ -27,14 +39,24 @@
     "javascript.nodejs.core.library.typings.version": "18.16.0",
     "last_opened_file_path": "C:/Users/Admin/Desktop/HooBank-ReatJS",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "ts.external.directory.path": "C:\\Users\\Admin\\Desktop\\HooBank-ReatJS\\bank_app\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,11 +66,24 @@
       <option name="presentableId" value="Default" />
       <updated>1689040900082</updated>
       <workItem from="1689040901275" duration="1122000" />
-      <workItem from="1689042055660" duration="686000" />
+      <workItem from="1689042055660" duration="1409000" />
+      <workItem from="1689059035482" duration="689000" />
     </task>
+    <task id="LOCAL-00001" summary="Init project, install vite, setup tailwind">
+      <created>1689042866669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689042866669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init project, install vite, setup tailwind" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init project, install vite, setup tailwind" />
   </component>
 </project>
